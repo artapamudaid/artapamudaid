@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Arta Tri Pamuda
-- 👀 I’m interested in Full Stack Developer
+- 👋 Hi, I’m Arta 
+- 👀 I’m a Backend Developer
 - 🌱  
-  - Backend  : Codeigniter, Laravel, NodeJs
-  - Frontend : VueJs, ReactJs
-  - Database : MySQL, PostgreSQL
-- 📫 How to reach me
+  - Stack  : Laravel, ExpressJs, Go, Bun
+  - Database : MySQL, PostgreSQL, Redis
+- 📫 Reach me on
      Email : pamuda.id@gmail.com
      whatsapp : +62 838-5137-8225
