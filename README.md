@@ -1,8 +1,59 @@
-- 👋 Hi, I’m Arta 
-- 👀 I’m a Backend Developer
-- 🌱  
-  - Stack  : Laravel, ExpressJs, Go, Bun
-  - Database : MySQL, PostgreSQL, Redis
-- 📫 Reach me on
-     Email : pamuda.id@gmail.com
-     whatsapp : +62 838-5137-8225
+# Hi there, I'm Arta! 👋
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Backend%20Developer&fontSize=50&fontColor=000000&animation=fadeIn" alt="Header" />
+</div>
+
+## 👨‍💻 About Me
+
+Saya adalah seorang **Backend Developer** yang berfokus pada pembangunan arsitektur sistem yang tangguh, *scalable*, dan berkinerja tinggi. Saya terbiasa menangani manajemen server dan merancang solusi berbasis data untuk aplikasi skala kecil hingga *enterprise*.
+
+- 🔭 Saat ini sedang fokus mengembangkan berbagai proyek *backend* tingkat lanjut.
+- 🌱 Selalu tertarik untuk belajar dan mengeksplorasi teknologi baru di bidang *System Architecture* dan DevOps.
+- 💬 Jangan ragu untuk bertanya kepada saya tentang **API Development, Optimasi Database, dan Infrastruktur Server**.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFD700)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFD700)
+![Golang](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=FFD700)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=FFD700)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFD700)
+
+### 🚀 Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FFD700)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000000?style=for-the-badge&logo=codeigniter&logoColor=FFD700)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFD700)
+![Go Fiber](https://img.shields.io/badge/Go_Fiber-000000?style=for-the-badge&logo=go&logoColor=FFD700)
+![Hono](https://img.shields.io/badge/Hono-000000?style=for-the-badge&logo=hono&logoColor=FFD700)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=FFD700)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFD700)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD700)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=FFD700)
+
+### ⚙️ Architecture & DevOps
+![System Architecture](https://img.shields.io/badge/System_Architecture-000000?style=for-the-badge&logo=googlecloud&logoColor=FFD700)
+![SysAdmin / DevOps](https://img.shields.io/badge/SysAdmin_/_DevOps-000000?style=for-the-badge&logo=linux&logoColor=FFD700)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFD700)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=FFD700&title_color=FFD700" alt="Arta's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" alt="Arta's GitHub Streak" width="48%" />
+</div>
+
+---
+
+## 📫 Let's Connect!
+Punya ide proyek, tawaran kerja sama, atau sekadar ingin berdiskusi soal *backend engineering*? Jangan ragu untuk menghubungi saya!
+
+[![Email](https://img.shields.io/badge/Email-pamuda.id@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:pamuda.id@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+62_838--5137--8225-000000?style=for-the-badge&logo=whatsapp&logoColor=FFD700)](https://wa.me/6283851378225)
