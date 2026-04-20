@@ -1,10 +1,4 @@
-# Hi there, I'm Arta! 👋
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Backend%20Developer&fontSize=50&fontColor=000000&animation=fadeIn" alt="Header" />
-</div>
-
-## 👨‍💻 About Me
+# Halo saya Arta! 👋
 
 Saya adalah seorang **Software Engineer** yang berfokus pada pembangunan arsitektur sistem yang tangguh, *scalable*, dan berkinerja tinggi. Saya terbiasa menangani manajemen server dan merancang solusi berbasis data untuk aplikasi skala kecil hingga *enterprise*.
 
