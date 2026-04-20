@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Saya adalah seorang **Backend Developer** yang berfokus pada pembangunan arsitektur sistem yang tangguh, *scalable*, dan berkinerja tinggi. Saya terbiasa menangani manajemen server dan merancang solusi berbasis data untuk aplikasi skala kecil hingga *enterprise*.
+Saya adalah seorang **Software Engineer** yang berfokus pada pembangunan arsitektur sistem yang tangguh, *scalable*, dan berkinerja tinggi. Saya terbiasa menangani manajemen server dan merancang solusi berbasis data untuk aplikasi skala kecil hingga *enterprise*.
 
 - 🔭 Saat ini sedang fokus mengembangkan berbagai proyek *backend* tingkat lanjut.
 - 🌱 Selalu tertarik untuk belajar dan mengeksplorasi teknologi baru di bidang *System Architecture* dan DevOps.
@@ -46,8 +46,8 @@ Saya adalah seorang **Backend Developer** yang berfokus pada pembangunan arsitek
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=FFD700&title_color=FFD700" alt="Arta's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" alt="Arta's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=artapamudaid&show_icons=true&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=FFD700&title_color=FFD700" alt="Arta's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artapamudaid&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" alt="Arta's GitHub Streak" width="48%" />
 </div>
 
 ---
