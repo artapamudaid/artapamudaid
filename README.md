@@ -58,9 +58,3 @@ Punya ide proyek, tawaran kerja sama, atau sekadar ingin berdiskusi soal *backen
 
 [![Email](https://img.shields.io/badge/Email-pamuda.id@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:pamuda.id@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+62_838--5137--8225-000000?style=for-the-badge&logo=whatsapp&logoColor=FFD700)](https://wa.me/6283851378225)
-
-## 📫 Let's Connect!
-Punya ide proyek, tawaran kerja sama, atau sekadar ingin berdiskusi soal *backend engineering*, *fullstack*, dan AI? Jangan ragu untuk menghubungi saya!
-
-[![Email](https://img.shields.io/badge/Email-pamuda.id@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:pamuda.id@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+62_838--5137--8225-000000?style=for-the-badge&logo=whatsapp&logoColor=FFD700)](https://wa.me/6283851378225)
