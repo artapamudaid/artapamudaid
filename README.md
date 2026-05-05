@@ -44,13 +44,6 @@ Saya adalah seorang **Software Engineer & AI Native Engineer** yang berfokus pad
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artapamudaid&show_icons=true&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=FFD700&title_color=FFD700" alt="Arta's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artapamudaid&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" alt="Arta's GitHub Streak" width="48%" />
-</div>
-
 ---
 
 ## 📫 Let's Connect!
