@@ -44,8 +44,6 @@ Saya adalah seorang **Software Engineer & AI Native Engineer** yang berfokus pad
 
 ---
 
----
-
 ## 📫 Let's Connect!
 Punya ide proyek, tawaran kerja sama, atau sekadar ingin berdiskusi soal *backend engineering* dan AI? Jangan ragu untuk menghubungi saya!
 
